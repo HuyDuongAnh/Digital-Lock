@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Mar 23 16:30:16 2018
+# Process ID: 13328
+# Current directory: C:/Users/User/Desktop/CPE233/Digital_Lock/RAT_MCU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6340 C:\Users\User\Desktop\CPE233\Digital_Lock\RAT_MCU\RAT_MCU.xpr
+# Log file: C:/Users/User/Desktop/CPE233/Digital_Lock/RAT_MCU/vivado.log
+# Journal file: C:/Users/User/Desktop/CPE233/Digital_Lock/RAT_MCU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/CPE233/Digital_Lock/RAT_MCU/RAT_MCU.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1

@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Mar 15 21:29:06 2018
+# Process ID: 14092
+# Current directory: C:/Users/User/Desktop/CPE233/Digital Lock/RAT_MCU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13432 C:\Users\User\Desktop\CPE233\Digital Lock\RAT_MCU\RAT_MCU.xpr
+# Log file: C:/Users/User/Desktop/CPE233/Digital Lock/RAT_MCU/vivado.log
+# Journal file: C:/Users/User/Desktop/CPE233/Digital Lock/RAT_MCU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/User/Desktop/CPE233/Digital Lock/RAT_MCU/RAT_MCU.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/User/Desktop/CPE233/RAT_MCU-20180311T235217Z-001/RAT_MCU' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.3/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:08 . Memory (MB): peak = 744.727 ; gain = 40.797
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+import_files -norecurse {{C:/Users/User/Desktop/CPE233/RatSim v0.61/RatSimulator/prog_rom.vhd}}
+import_files -force -norecurse {{C:/Users/User/Desktop/CPE233/RatSim v0.61/RatSimulator/prog_rom.vhd}}
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Mar 15 21:33:54 2018...
